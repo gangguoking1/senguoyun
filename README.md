@@ -1,4 +1,4 @@
-# 森国云待办（senguoyun）
+# 森果云项目（senguoyun）
 
 一个前后端分离的本地待办清单小工具：Vue 3 界面、FastAPI 接口、MySQL 持久化。适合作为个人清单或二次开发模板。
 
